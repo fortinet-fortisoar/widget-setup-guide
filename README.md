@@ -1,6 +1,6 @@
 # Release Information
 
-- **Version**: 1.0.0
+- **Version**: 1.1.0
 
 - **Certified**: Yes
 
@@ -20,7 +20,7 @@ The guide creates a task list and tracks to streamline multiple tasks such as:
 - Setting up network proxy
 - Enabling purging of audit and playbook logs
 - Configuring enrichment
-- Mitigation playbooks
+- Configuring mitigation playbooks
 
 # Next Steps
 
