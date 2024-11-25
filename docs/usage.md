@@ -65,6 +65,9 @@ For each task you have three options:
 
     - Click **Reset Task Options** button to bring back the options, in case you clicked **Not Applicable** in error.
 
+>[!TIP]
+> For more information, refer to the [**Getting Started guide**](https://docs.fortinet.com/document/fortisoar/7.6.0/getting-started/231699/overview) in the FortiSOAR product documentation.
+
 # Next Steps
 
 | [Installation](./setup.md#installation) | [Configuration](./setup.md#configuration) |
