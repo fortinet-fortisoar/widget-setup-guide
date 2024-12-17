@@ -6,7 +6,7 @@
 
 - **Publisher**: Fortinet  
 
-- **Compatibility**: 7.6.0 and later
+- **Compatibility**: 7.6.1 and later
 
 
 # Overview
@@ -19,10 +19,8 @@ The guide creates a task list and tracks to streamline multiple tasks such as:
 
 - Setting up network proxy
 - Enabling purging of audit and playbook logs
-- Configuring enrichment
-- Configuring mitigation playbooks
+- Setup indicator extraction and exclusion
+- Configuring enrichment & mitigation playbooks
+- Setup data ingestion
 
-# Next Steps
-
-| [Installation](./docs/setup.md#installation) | [Configuration](./docs/setup.md#configuration) | [Usage](./docs/usage.md) |
-|----------------------------------------------|------------------------------------------------|--------------------------|
+Head over to the [SOAR Framework solution pack](https://github.com/fortinet-fortisoar/solution-pack-soar-framework/blob/develop/docs/setup-guide/setup-guide.md) documentation to track setup tasks using the **Setup Guide**!
