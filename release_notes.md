@@ -1,6 +1,10 @@
 ## What's New
 
-### Updated Task Flow in Setup Guide for FortiTIP Features
+### Enhanced Task Flow in Setup Guide for FortiTIP Features
 
-- All sections in the setup guide have been updated to include tasks related to FortiTIP, providing clearer instructions and relevant information for users working with FortiTIP features.
-
+- The setup guide has been fully updated to integrate tasks specific to FortiTIP, offering clearer and more detailed instructions for users working with these features.
+- Key updates include step-by-step guidance on configuring and launching FortiTIP tools, ensuring users can easily access and utilize these capabilities:
+  - **IOC Search**: Use the FortiGuard Labs dashboard to search for malicious IoCs from the FortiGuard cyber threat database.
+  - **Outbreak Response Framework**: Configure Threat Detection integrations (e.g., FortiSIEM, FortiAnalyzer) and define investigation schedules for outbreaks.
+  - **Threat Intel Management**: Set up and schedule threat feed integrations to optimize threat intelligence systems.
+  - **FortiAI**: Configure FortiAI for automated threat management and response, with custom playbook creation and AI-driven threat insights.
