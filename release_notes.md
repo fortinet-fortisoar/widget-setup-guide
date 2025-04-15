@@ -8,3 +8,9 @@
   - **Outbreak Response Framework**: Configure Threat Detection integrations (e.g., FortiSIEM, FortiAnalyzer) and define investigation schedules for outbreaks.
   - **Threat Intel Management**: Set up and schedule threat feed integrations to optimize threat intelligence systems.
   - **FortiAI**: Configure FortiAI for automated threat management and response, with custom playbook creation and AI-driven threat insights.
+- Added "Automation" Section for FortiTIP
+  - Created a new "Automation" section with the following tasks, each linking to the respective FSR pages and documentation:
+    - Playbooks
+    - Connectors
+    - Data Ingestion
+    - Schedules
