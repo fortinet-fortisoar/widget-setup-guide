@@ -7,6 +7,7 @@
 - **Publisher**: Fortinet  
 
 - **Compatibility**: 7.6.1 and later
+- [Release Notes](./release_notes.md)
 
 
 # Overview
