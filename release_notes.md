@@ -1,2 +1,3 @@
 ## What's New
-- Updates to accomodate Setup Guide changes for FortiTIP.
+
+- Updates to accommodate SOAR Framework solution pack enhancements.
