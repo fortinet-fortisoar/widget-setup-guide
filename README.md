@@ -1,12 +1,13 @@
 # Release Information
 
-- **Version**: 1.2.0
+- **Version**: 1.3.0
 
 - **Certified**: Yes
 
 - **Publisher**: Fortinet  
 
-- **Compatibility**: 7.6.1 and later
+- **Compatibility**: 7.6.4 and later
+
 - [Release Notes](./release_notes.md)
 
 
