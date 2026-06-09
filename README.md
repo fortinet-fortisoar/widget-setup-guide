@@ -1,12 +1,12 @@
 # Release Information
 
-- **Version**: 1.3.0
+- **Version**: 2.0.0
 
 - **Certified**: Yes
 
 - **Publisher**: Fortinet  
 
-- **Compatibility**: 7.6.4 and later
+- **Compatibility**: 8.0.0 and later
 
 - [Release Notes](./release_notes.md)
 
@@ -21,6 +21,7 @@ The guide creates a task list and tracks to streamline multiple tasks such as:
 
 - Setting up network proxy
 - Enabling purging of audit and playbook logs
+- Setup AI investigation and insights
 - Setup indicator extraction and exclusion
 - Configuring enrichment & mitigation playbooks
 - Setup data ingestion
